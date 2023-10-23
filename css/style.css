@@ -13,18 +13,23 @@ h1{
     font-size: 60px;
     color: #8f6800;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
 }
 
 p{
     font-size: 20px;
     padding: 15px;
+    text-indent: 45px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 
 h2{
     font-weight: bolder;
     font-size: 30px;
     color: #8f6800;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 20px;
 }
 
 h3{
@@ -34,4 +39,16 @@ h3{
     font-weight: bolder;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin-left: 2px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+p.Linha{
+  border-bottom : 4px dashed #d48b00;  
+  margin-bottom: 40px;
+  font-size: 20px;
+  padding: 15px;
+  text-indent: 45px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  
 }
